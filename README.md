@@ -16,6 +16,14 @@
 | 3章 p130：MSE trainの数値 | 11.724 | 11.72 |  |
 | 8章 p353：ソースコードの6行目 | x_pos =　df['POSIX'].reshape(-1,1) | x_pos =　x_pos.reshape(-1,1)またはx_pos =　df['POSIX'].values.reshape(-1,1) |  |
 
+# ライブラリのバージョン
+- matplotlib:3.1.2
+- numpy:1.17.4
+- pandas:0.25.3
+- scikitlearn:0.21.3
+- mlxtend:0.14.0
+本発売時点のColabのバージョン
+
 ## 問い合わせ
 本書のお問い合わせ、ご要望、記載の誤植があれば以下メールアドレスにお問い合わせください。
 ayukat101699@yahoo.co.jp
