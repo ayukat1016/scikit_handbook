@@ -16,7 +16,7 @@
 | 3章 p130：MSE trainの数値 | 11.724 | 11.72 |  |
 | 8章 p353：ソースコードの6行目 | x_pos =　df['POSIX'].reshape(-1,1) | x_pos =　x_pos.reshape(-1,1)またはx_pos =　df['POSIX'].values.reshape(-1,1) |  |
 
-# ライブラリのバージョン
+## ライブラリのバージョン
 - matplotlib:3.1.2
 - numpy:1.17.4
 - pandas:0.25.3
