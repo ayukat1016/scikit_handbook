@@ -20,7 +20,7 @@
 - matplotlib:3.1.2
 - numpy:1.17.4
 - pandas:0.25.3
-- scikitlearn:0.21.3
+- sklearn:0.21.3
 - mlxtend:0.14.0
 
 ## 問い合わせ
