@@ -16,6 +16,7 @@
 | 3章 p130：MSE trainの数値 | 11.724 | 11.72 |  |
 | 8章 p353：ソースコードの6行目 | x_pos =　df['POSIX'].reshape(-1,1) | x_pos =　x_pos.reshape(-1,1)またはx_pos =　df['POSIX'].values.reshape(-1,1) |  |
 | 8章 p420：ソースコードの1行目 |sumweight = (normratings*user_corr_top5).sum(axis = 1)| sumweight = ((normratings.notnull())*user_corr_top5.abs()).sum(axis = 1) |  |
+| 8章 p420：ソースコードの5行目 | predict.sort_values(ascending = False) | predict.sort_values(ascending = False).head() |  |
 
 ## ライブラリのバージョン
 - matplotlib:3.1.2
