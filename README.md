@@ -1,5 +1,9 @@
 # scikit-learnデータ分析　実装ハンドブック
 
+![scikit](https://user-images.githubusercontent.com/40778791/108866924-0475b080-7638-11eb-8ea4-4a14f9e24eb5.PNG)
+
+書籍「scikit-learnデータ分析ハンドブック」のサポートサイトです。本書籍で使用するサンプルコードがまとめてあります。
+
 - 第1章：機械学習とは何か 
 - 第2章：scikit-learnと開発環境  
 - 第3章：回帰   
