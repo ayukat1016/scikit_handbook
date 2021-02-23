@@ -2,8 +2,9 @@
 
 ![scikit](https://user-images.githubusercontent.com/40778791/108866924-0475b080-7638-11eb-8ea4-4a14f9e24eb5.PNG)
 
-書籍「scikit-learnデータ分析ハンドブック」のサポートサイトです。本書籍で使用するサンプルコードがまとめてあります。
+書籍「[scikit-learnデータ分析ハンドブック](https://www.amazon.co.jp/scikit-learn-%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-%E5%AE%9F%E8%B7%B5%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-Python%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E5%AE%9A%E7%95%AA%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E6%AF%9B%E5%88%A9/dp/4798055425)」のサポートサイトです。本書籍で使用するサンプルコードがまとめてあります。
 
+## 章の構成
 - 第1章：機械学習とは何か 
 - 第2章：scikit-learnと開発環境  
 - 第3章：回帰   
